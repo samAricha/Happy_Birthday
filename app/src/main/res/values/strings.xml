@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
+    <string name="hbd_message">Happy Birthday Aricha!!</string>
+    <string name="hbd_from">- from Samson</string>
 </resources>
